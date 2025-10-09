@@ -14,4 +14,4 @@ This project currently pulls from tech news sources, but you can adapt it to any
 
 ## 📸 Example Output
 
-![Newsletter Screenshot]([https://i.imgur.com/AD69Mib.png])
+![Newsletter Screenshot](https://i.imgur.com/AD69Mib.png)
