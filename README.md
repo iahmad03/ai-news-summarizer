@@ -1,4 +1,4 @@
-# 📰 AI Newsletter Summarizer
+# 📰 AI News Summarizer
 
 A Python-based newsletter generator that fetches articles from RSS feeds, summarizes them using Hugging Face’s BART model, and produces a clean, responsive HTML newsletter.
 
