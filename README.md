@@ -6,11 +6,11 @@ This project currently pulls from tech news sources, but you can adapt it to any
 
 ## Features
 
-- Fetches articles from RSS feeds
-- Summarizes content using facebook/bart-large-cnn via Hugging Face API
-- Generates a modern HTML/CSS newsletter using a template
-- Includes error handling and logging for reliability and easier debugging
-- Easily customizable for other news sources or RSS feeds
+- 🌐 Fetches articles from RSS feeds
+- 🤖 Summarizes content using facebook/bart-large-cnn via Hugging Face API
+- 📧 Generates a modern HTML/CSS newsletter using a template
+- ⚠️ Includes error handling and logging for reliability and easier debugging
+- 🔧 Easily customizable for other news sources or RSS feeds
 
 ## 📸 Example Output
 
